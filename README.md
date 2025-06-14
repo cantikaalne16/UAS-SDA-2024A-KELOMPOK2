@@ -9,7 +9,7 @@ Ilmin Nur Lailiyah (24031554135)
 
 ## Deskripsi:
 Program ini dibuat untuk memenuhi nilai UAS mata kuliah **Struktur Data dan Algoritma**. 
-Berisi kode dan data dummy dalam implementasi decision tree, 
+Berisi kode dan data dummy dalam implementasi decision tree, juga telah ditambahkan file excel hasil seleksi dan gambar visualisasi decision tree
 dengan topik seleksi penerimaan beasiswa menggunakan fitur/atribut nilai IPK, skor TOEFL, prestasi, dan keaktifan organisasi.
 
 Untuk menjalankan kode, diharapkan untuk mengunduh terlebih dahulu file data dummy dan untuk mempermudah dalam menjalankan kode, diharapkan membuka link berikut🙏:
